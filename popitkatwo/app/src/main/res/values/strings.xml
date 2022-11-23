@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">popitkatwo</string>
+    <string name="vhod">Войти</string>
+    <string name="namepolzovatelya">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="spisok">Список дел</string>
+    <string name="email">Email</string>
+</resources>
